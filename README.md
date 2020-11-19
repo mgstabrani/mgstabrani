@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=mgstabrani&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgstabrani&layout=compact" height=180 />
-</p>
+<div>
+    <img align="center" width="300" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgstabrani&layout=compact&hide=javascript,css,html&card_width=300&theme=dark" /></a>
+    <img align="center" width="300" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgstabrani&layout=compact&hide=c,python,java&card_width=300&theme=dark" /></a>
+</div>
 
 <!--
 **mgstabrani/mgstabrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
