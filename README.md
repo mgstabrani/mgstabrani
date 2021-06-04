@@ -1,11 +1,17 @@
 ### Hi there 👋, I'm Tabrani!
 I am currently attending a college in Informatics, Bandung Institute of Technology
 
+<a href="https://gitlab.com/mgstabrani">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mgs-tabrani/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://instagram.com/mgs_tabrani">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+</a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCbWnNIz0i_ebDGHbhQhFqRQ">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 ### My Stats
