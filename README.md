@@ -15,9 +15,11 @@ I am currently attending a college in Informatics, Bandung Institute of Technolo
 </a>&nbsp;&nbsp;
 
 ### My Stats
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=mgstabrani&hide=contribs,prs&show_icons=true&hide_border=true&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgstabrani&layout=compact&theme=dark" height=180 />
+<p align="left">
+<a href="https://github.com/mgstabrani">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mgstabrani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mgstabrani&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 <!-- <details>
