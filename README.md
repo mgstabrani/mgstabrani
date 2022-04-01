@@ -14,14 +14,14 @@ I am currently attending a college in Informatics, Bandung Institute of Technolo
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-### My Stats
+<!-- ### My Stats
 <p align="left">
 <a href="https://github.com/mgstabrani">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mgstabrani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mgstabrani&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=mgstabrani&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
 </a>
-</p>
+</p> -->
 
 <!-- <details>
   <summary>📃 Resume</summary>
