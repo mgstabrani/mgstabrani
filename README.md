@@ -13,7 +13,9 @@ I am currently attending a college in Informatics, Bandung Institute of Technolo
 <a href="https://www.youtube.com/channel/UCbWnNIz0i_ebDGHbhQhFqRQ">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>&nbsp;&nbsp;
-
+<a href="https://www.npmjs.com/~mgstabrani">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</a>&nbsp;&nbsp;
 <!-- ### My Stats
 <p align="left">
 <a href="https://github.com/mgstabrani">
