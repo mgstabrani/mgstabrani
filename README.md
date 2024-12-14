@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Tabrani!
-I am currently attending a college in Informatics, Bandung Institute of Technology
+<s>I am currently attending a college in Informatics, Bandung Institute of Technology</s><br>
+I have graduated from Bandung Institue of Technology :)
 
 <!-- <a href="https://gitlab.com/mgstabrani">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
