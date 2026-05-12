@@ -1,99 +1,68 @@
-### Hi there 👋, I'm Tabrani!
-<s>I am currently attending a college in Informatics, Bandung Institute of Technology</s><br>
-I have graduated from Bandung Institute of Technology :)
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<!-- <a href="https://gitlab.com/mgstabrani">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-</a>&nbsp;&nbsp; -->
-<a href="https://www.linkedin.com/in/mgs-tabrani/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://instagram.com/mgs_tabrani">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-</a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCbWnNIz0i_ebDGHbhQhFqRQ">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.npmjs.com/~mgstabrani">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-</a>&nbsp;&nbsp;
-<!-- ### My Stats
-<p align="left">
-<a href="https://github.com/mgstabrani">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mgstabrani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mgstabrani&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=mgstabrani&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
-</a>
-</p> -->
+<div align="left">
 
-<!-- <details>
-  <summary>📃 Resume</summary>
+# Hi there 👋, I'm Tabrani!
 
-
-### Education
-
-- 📖 **Informatics**\
-📆 2019 - current\
-📍 **Bandung Institute of Technology** - Bandung, Indonesia
-
-### Experience
-
-- 👨‍💻 **Web Developer Intern**\
-📆 January, 2021 - current\
-📍 **VisitInd** - Bandung, Brazil
-<!-- 
-<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" /> -->
-
-<!-- - 👨‍💻 **Back End Engineer Intern**\
-📆 January, 2021 - March, 2021\
-📍 **DigiTiket** - Semarang, Indonesia -->
-
-<!-- <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" /> -->
-
-<!-- - 👨‍💻 **Back End Developer**\
-📆 June, 2020 - September, 2020\
-📍 **Pateron Indonesia** - Bandung, Indonesia -->
-
-<!-- <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" /> -->
-
-    
-<!-- </details>  -->
-<!--
-### My Contact
-<p>
-    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.id-green?" /></a>
-    <a href="https://www.linkedin.com/in/bagusfedotid" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
-    <a href="https://https://twitter.com/bagusfedotid" target="blank"><img src="https://img.shields.io/badge/@bagusfedotid-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+<p align="left" style="display:flex;gap:10px;justify-content:left;flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/Software%20Engineer-Gojek%20RPL%20-00AA13?style=flat-square&logo=gojek&logoColor=white" alt="Role badge" />
+  <img src="https://img.shields.io/badge/Based%20in-Indonesia-red?style=flat-square&logo=googlemaps&logoColor=white" alt="Location badge" />
+  <img src="https://img.shields.io/badge/Currently exploring-DevOps%20%2F%20Agentic%20AI-blue?style=flat-square&logo=readme&logoColor=white" alt="Currently exploring DevOps & Agentic AI" />
 </p>
--->
 
-<!--
-**mgstabrani/mgstabrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
+### 💼 Work
 
-Here are some ideas to get you started:
+- [Gojek ↗](https://www.gojek.com/id-id) **(Apr 24–Present)** - Software Engineer - RPL (Reward, Promotion, and Loyalty)
+- [Dans Multi Pro ↗](https://dansmultipro.com/) **(Nov 23–Apr 24)** - Backend Developer
+- Part-Time/Freelances
+  - [ISR Lab of Telkom Indonesia ↗](https://infrasvc.id/) **(Jan 23–Dec 23 & Jul 24-Dec 24)** - Research Assistant
+  - [Dans Multi Pro ↗](https://dansmultipro.com/) **(Dec 22–Mar 23)** - Backend Developer
+- Internships
+  - Cakra Radha Mustika [Kalbe Group] **(Sep 22–Dec 22)** - Backend Engineer
+  - [Makmur ↗](https://www.makmur.id/id) **(May 22–Aug 22)** - Backend Engineer
+  - [kumparan ↗](https://kumparan.com/) **(Oct 21–Jan 22)** - Backend Engineer
+  - [Buwhan Edu ↗](https://buwhanedu.com/) **(Jun 21–Sep 21)** - Backend Engineer
 
-- 🔭 I’m currently working on Institut Teknologi Bandung
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Open-Source Contribution
+
+- Currently In Progress
+
+### 🎓 Education
+
+- Bandung Institute of Technology (ITB), Computer Science
+
+### 📚 Recently Read
+
+| Title                      | Author                    |
+| -------------------------- | ------------------------- |
+| _The Pragmatic Programmer_ | Andrew Hunt, David Thomas |
+| _Refactoring_              | Martin Fowler             |
+
+### 📫 Connect with Me
+
+<p align="left" style="display:flex;gap:8px;flex-wrap:wrap;">
+  <a href="https://www.linkedin.com/in/mgs-tabrani/" target="blank" title="LinkedIn" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Tabrani on LinkedIn" />
+  </a>
+  <a href="https://medium.com/@mgstabrani19" target="blank" title="Medium" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Tabrani on Medium" />
+  </a>
+  <a href="https://leetcode.com/u/mgstabrani" target="blank" title="Leetcode" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Leetcode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="Tabrani on Leetcode" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCbWnNIz0i_ebDGHbhQhFqRQ" target="blank" title="YouTube" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Tabrani on YouTube" />
+  </a>
+  <a href="https://www.npmjs.com/~mgstabrani" target="blank" title="NPM" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="Tabrani on NPM" />
+  </a>
+  
+</p>
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mgs-tabrani&label=Profile%20views&color=0e75b6&style=flat" alt="mgstabrani" />
+</p>
