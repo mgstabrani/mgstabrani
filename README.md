@@ -40,6 +40,11 @@
 | _The Pragmatic Programmer_ | Andrew Hunt, David Thomas |
 | _Refactoring_              | Martin Fowler             |
 
+### 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### 📫 Connect with Me
 
 <p align="left" style="display:flex;gap:8px;flex-wrap:wrap;">
