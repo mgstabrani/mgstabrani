@@ -43,11 +43,11 @@
 ### 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#827](https://github.com/beeware/rubicon-objc/pull/827) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
-2. 🎉 Merged PR [#73](https://github.com/TheAlgorithms/Jule/pull/73) in [TheAlgorithms/Jule](https://github.com/TheAlgorithms/Jule)
-3. 💪 Opened PR [#827](https://github.com/beeware/rubicon-objc/pull/827) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
-4. 🗣 Commented on [#826](https://github.com/beeware/rubicon-objc/issues/826#issuecomment-5632842929) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
-5. 💪 Opened PR [#73](https://github.com/TheAlgorithms/Jule/pull/73) in [TheAlgorithms/Jule](https://github.com/TheAlgorithms/Jule)
+1. 💪 Opened PR [#832](https://github.com/beeware/rubicon-objc/pull/832) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
+2. 🎉 Merged PR [#827](https://github.com/beeware/rubicon-objc/pull/827) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
+3. 🎉 Merged PR [#73](https://github.com/TheAlgorithms/Jule/pull/73) in [TheAlgorithms/Jule](https://github.com/TheAlgorithms/Jule)
+4. 💪 Opened PR [#827](https://github.com/beeware/rubicon-objc/pull/827) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
+5. 🗣 Commented on [#826](https://github.com/beeware/rubicon-objc/issues/826#issuecomment-5632842929) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
 <!--END_SECTION:activity-->
 
 ### 📫 Connect with Me
