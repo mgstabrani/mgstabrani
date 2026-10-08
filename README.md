@@ -43,11 +43,11 @@
 ### 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#836](https://github.com/beeware/rubicon-objc/pull/836#issuecomment-5977236730) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
-2. 💪 Opened PR [#536](https://github.com/django-commons/django-prometheus/pull/536) in [django-commons/django-prometheus](https://github.com/django-commons/django-prometheus)
-3. 🗣 Commented on [#836](https://github.com/beeware/rubicon-objc/pull/836#issuecomment-5813430161) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
-4. 💪 Opened PR [#836](https://github.com/beeware/rubicon-objc/pull/836) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
-5. 🎉 Merged PR [#832](https://github.com/beeware/rubicon-objc/pull/832) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
+1. 🗣 Commented on [#836](https://github.com/beeware/rubicon-objc/pull/836#issuecomment-6061833339) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
+2. 🗣 Commented on [#836](https://github.com/beeware/rubicon-objc/pull/836#issuecomment-5977236730) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
+3. 💪 Opened PR [#536](https://github.com/django-commons/django-prometheus/pull/536) in [django-commons/django-prometheus](https://github.com/django-commons/django-prometheus)
+4. 🗣 Commented on [#836](https://github.com/beeware/rubicon-objc/pull/836#issuecomment-5813430161) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
+5. 💪 Opened PR [#836](https://github.com/beeware/rubicon-objc/pull/836) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
 <!--END_SECTION:activity-->
 
 ### 📫 Connect with Me
