@@ -43,11 +43,11 @@
 ### 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#844](https://github.com/beeware/rubicon-objc/issues/844) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
-2. ❗ Opened issue [#844](https://github.com/beeware/rubicon-objc/issues/844) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
-3. 🎉 Merged PR [#836](https://github.com/beeware/rubicon-objc/pull/836) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
-4. 🗣 Commented on [#836](https://github.com/beeware/rubicon-objc/pull/836#issuecomment-6061833339) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
-5. 🗣 Commented on [#836](https://github.com/beeware/rubicon-objc/pull/836#issuecomment-5977236730) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
+1. 💪 Opened PR [#845](https://github.com/beeware/rubicon-objc/pull/845) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
+2. ℹ️ Labeled issue [#844](https://github.com/beeware/rubicon-objc/issues/844) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
+3. ❗ Opened issue [#844](https://github.com/beeware/rubicon-objc/issues/844) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
+4. 🎉 Merged PR [#836](https://github.com/beeware/rubicon-objc/pull/836) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
+5. 🗣 Commented on [#836](https://github.com/beeware/rubicon-objc/pull/836#issuecomment-6061833339) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
 <!--END_SECTION:activity-->
 
 ### 📫 Connect with Me
