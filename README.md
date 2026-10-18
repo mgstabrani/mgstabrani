@@ -43,11 +43,11 @@
 ### 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2501](https://github.com/django-commons/django-debug-toolbar/pull/2501) in [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
-2. 💪 Opened PR [#1](https://github.com/mgstabrani/django-debug-toolbar/pull/1) in [mgstabrani/django-debug-toolbar](https://github.com/mgstabrani/django-debug-toolbar)
-3. 🎉 Merged PR [#845](https://github.com/beeware/rubicon-objc/pull/845) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
-4. 🗣 Commented on [#2059](https://github.com/django-commons/django-debug-toolbar/issues/2059#issuecomment-6216103062) in [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
-5. 💪 Opened PR [#845](https://github.com/beeware/rubicon-objc/pull/845) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
+1. 🎉 Merged PR [#2501](https://github.com/django-commons/django-debug-toolbar/pull/2501) in [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
+2. 💪 Opened PR [#2501](https://github.com/django-commons/django-debug-toolbar/pull/2501) in [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
+3. 💪 Opened PR [#1](https://github.com/mgstabrani/django-debug-toolbar/pull/1) in [mgstabrani/django-debug-toolbar](https://github.com/mgstabrani/django-debug-toolbar)
+4. 🎉 Merged PR [#845](https://github.com/beeware/rubicon-objc/pull/845) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
+5. 🗣 Commented on [#2059](https://github.com/django-commons/django-debug-toolbar/issues/2059#issuecomment-6216103062) in [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
 <!--END_SECTION:activity-->
 
 ### 📫 Connect with Me
