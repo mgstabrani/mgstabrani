@@ -43,11 +43,11 @@
 ### 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#2501](https://github.com/django-commons/django-debug-toolbar/pull/2501) in [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
-2. ℹ️ Labeled PR [#2501](https://github.com/django-commons/django-debug-toolbar/pull/2501) in [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
-3. 🎉 Merged PR [#2501](https://github.com/django-commons/django-debug-toolbar/pull/2501) in [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
-4. 💪 Opened PR [#2501](https://github.com/django-commons/django-debug-toolbar/pull/2501) in [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
-5. 💪 Opened PR [#1](https://github.com/mgstabrani/django-debug-toolbar/pull/1) in [mgstabrani/django-debug-toolbar](https://github.com/mgstabrani/django-debug-toolbar)
+1. 🗣 Commented on [#2506](https://github.com/django-commons/django-debug-toolbar/issues/2506#issuecomment-6294740902) in [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
+2. ℹ️ Labeled issue [#2506](https://github.com/django-commons/django-debug-toolbar/issues/2506) in [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
+3. ❗ Opened issue [#2506](https://github.com/django-commons/django-debug-toolbar/issues/2506) in [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
+4. ℹ️ Assigned PR [#2501](https://github.com/django-commons/django-debug-toolbar/pull/2501) in [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
+5. ℹ️ Labeled PR [#2501](https://github.com/django-commons/django-debug-toolbar/pull/2501) in [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
 <!--END_SECTION:activity-->
 
 ### 📫 Connect with Me
