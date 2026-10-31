@@ -43,11 +43,11 @@
 ### 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2414](https://github.com/django-commons/django-debug-toolbar/issues/2414) in [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
-2. 🗣 Commented on [#2414](https://github.com/django-commons/django-debug-toolbar/issues/2414#issuecomment-6496126208) in [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
-3. 🎉 Merged PR [#2510](https://github.com/django-commons/django-debug-toolbar/pull/2510) in [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
-4. 🗣 Commented on [#2510](https://github.com/django-commons/django-debug-toolbar/pull/2510#issuecomment-6399380170) in [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
-5. ❌ Closed PR [#1](https://github.com/mgstabrani/django-debug-toolbar/pull/1) in [mgstabrani/django-debug-toolbar](https://github.com/mgstabrani/django-debug-toolbar)
+1. 🗣 Commented on [#857](https://github.com/beeware/rubicon-objc/pull/857#issuecomment-6538950865) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
+2. 💪 Opened PR [#857](https://github.com/beeware/rubicon-objc/pull/857) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
+3. ❌ Closed PR [#856](https://github.com/beeware/rubicon-objc/pull/856) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
+4. 💪 Opened PR [#856](https://github.com/beeware/rubicon-objc/pull/856) in [beeware/rubicon-objc](https://github.com/beeware/rubicon-objc)
+5. ℹ️ Labeled issue [#2414](https://github.com/django-commons/django-debug-toolbar/issues/2414) in [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)
 <!--END_SECTION:activity-->
 
 ### 📫 Connect with Me
